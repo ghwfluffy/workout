@@ -1,0 +1,10 @@
+metrics:
+    # lbs
+    weight: 265.0
+    # cm
+    bicep: 0
+    forearm: 0
+    bust: 0
+    gut: 117
+    quads: 0
+    calves: 0

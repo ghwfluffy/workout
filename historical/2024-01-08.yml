@@ -1,0 +1,8 @@
+metrics:
+    weight: 265.0
+    gut: 117
+workout:
+  -
+    name: "Kettlebell Swings"
+    hypertrophy: "30#"
+    tone: "30#"

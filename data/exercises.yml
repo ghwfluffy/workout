@@ -1,0 +1,696 @@
+exercises:
+  -
+    name: "Front Squats"
+    category: "Lower"
+    lastComplete: "2019-02-16"
+    frequencyScore: 0.5
+    hypertrophy: "115 pounds"
+    tone: "95 pounds"
+  -
+    name: "Man Makers"
+    category: "Full Body"
+    type: "Aerobics"
+    lastComplete: "2/16/2019"
+    frequency: 0.5
+    hypertrophy: "45#"
+    tone: "25#"
+  -
+    name: "Wall Balls"
+    category: "Full Body"
+    type: "Aerobics"
+    lastComplete: "4/6/2019"
+    frequency: 1.0
+    hypertrophy: "100 over 10"
+    tone: "100"
+  -
+    name: "Duck Walk"
+    category: "Lower"
+    type: "Free Weights"
+    lastComplete: "4/15/2019"
+    frequency: 1.0
+    hypertrophy: "70#"
+    tone: "40#"
+  -
+    name: "Lunges"
+    category: "Lower"
+    type: "Free Weights"
+    lastComplete: "4/15/2019"
+    frequency: 1.0
+    hypertrophy: "70#"
+    tone: "40#"
+  -
+    name: "Rowing"
+    category: "Cardio"
+    type: "Aerobics"
+    lastComplete: "3/23/2019"
+    frequency: 0.5
+    hypertrophy: "2km < 8min"
+    tone: "1km < 4m"
+  -
+    name: "Sit-Ups"
+    category: "Core"
+    type: "Aerobics"
+    lastComplete: "5/5/2019"
+    frequency: 1.5
+    hypertrophy: "20# 20"
+    tone: "BW 20"
+  -
+    name: "Incline Bench"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "3/28/2019"
+    frequency: 0.5
+    hypertrophy: "135#"
+    tone: "95#"
+  -
+    name: "Shoulder Circuit"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/13/2019"
+    frequency: 2.0
+    hypertrophy: "30#, 30#"
+    tone: "25#, 20#"
+  -
+    name: "Step Ups"
+    category: "Lower"
+    type: "Aerobics"
+    lastComplete: "5/4/2019"
+    frequency: 1.0
+    hypertrophy: "100"
+    tone: "50"
+  -
+    name: "Good Mornings"
+    category: "Lower"
+    type: "Free Weights"
+    lastComplete: "5/5/2019"
+    frequency: 1.0
+    hypertrophy: "100#"
+    tone: "70#"
+  -
+    name: "Bent over row"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/6/2019"
+    frequency: 1.0
+    hypertrophy: "70#"
+    tone: "55#"
+  -
+    name: "Overhead Press"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/6/2019"
+    frequency: 1.0
+    hypertrophy: "80#"
+    tone: "60#"
+  -
+    name: "Lateral Raises"
+    category: "Upper"
+    type: "Machines"
+    lastComplete: "5/18/2019"
+    frequency: 2.0
+    hypertrophy: "100#"
+    tone: "80#"
+  -
+    name: "Barbell Twist"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/20/2019"
+    frequency: 3.0
+    hypertrophy: "90:60"
+    tone: ""45:15""
+  -
+    name: "Pull Ups"
+    category: "Upper"
+    type: "Aerobics"
+    lastComplete: "5/20/2019"
+    frequency: 3.0
+    hypertrophy: "5"
+    tone: "3"
+  -
+    name: "Knee Ups"
+    category: "Core"
+    type: "Aerobics"
+    lastComplete: "5/13/2019"
+    frequency: 1.0
+    hypertrophy: "25"
+    tone: "20"
+  -
+    name: "Ring Rows"
+    category: "Upper"
+    type: "Aerobics"
+    lastComplete: "5/13/2019"
+    frequency: 1.0
+    hypertrophy: "16"
+    tone: "12"
+  -
+    name: "Tricep Dips"
+    category: "Upper"
+    type: "Aerobics"
+    lastComplete: "5/13/2019"
+    frequency: 1.0
+    hypertrophy: "8"
+    tone: "5"
+  -
+    name: "Chest Press"
+    category: "Upper"
+    type: "Machines"
+    lastComplete: "5/15/2019"
+    frequency: 1.0
+    hypertrophy: "285#"
+    tone: "225#"
+  -
+    name: "Lat Pulldown"
+    category: "Upper"
+    type: "Machines"
+    lastComplete: "5/15/2019"
+    frequency: 1.0
+    hypertrophy: "285#"
+    tone: "225#"
+  -
+    name: "Peck Fly"
+    category: "Upper"
+    type: "Machines"
+    lastComplete: "5/15/2019"
+    frequency: 1.0
+    hypertrophy: "140#"
+    tone: "110#"
+  -
+    name: "Rear Delt Flex"
+    category: "Upper"
+    type: "Machines"
+    lastComplete: "5/15/2019"
+    frequency: 1.0
+    hypertrophy: "110#"
+    tone: "90#"
+  -
+    name: "Bicep Curl"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/18/2019"
+    frequency: 1.0
+    hypertrophy: "40#"
+    tone: "30#"
+  -
+    name: "Floor Cleans"
+    category: "Full Body"
+    type: "Free Weights"
+    lastComplete: "5/18/2019"
+    frequency: 1.0
+    hypertrophy: "135#"
+    tone: "115#"
+  -
+    name: "KettleBell Swings"
+    category: "Core"
+    type: "Aerobics"
+    lastComplete: "5/18/2019"
+    frequency: 1.0
+    hypertrophy: "90#"
+    tone: "45#"
+  -
+    name: "Tricep Extensions"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/18/2019"
+    frequency: 1.0
+    hypertrophy: "50#"
+    tone: "35#"
+  -
+    name: "Push Ups"
+    category: "Upper"
+    type: "Aerobics"
+    lastComplete: "5/22/2019"
+    frequency: 3.0
+    hypertrophy: "25# 15"
+    tone: "BW 20"
+  -
+    name: "Super Crunch"
+    category: "Core"
+    type: "Aerobics"
+    lastComplete: "5/21/2019"
+    frequency: 2.0
+    hypertrophy: "30"
+    tone: "20"
+  -
+    name: "Burpies"
+    category: "Cardio"
+    type: "Aerobics"
+    lastComplete: "5/13/2019"
+    frequency: 0.5
+    hypertrophy: "20"
+    tone: "10"
+  -
+    name: "Deadlift"
+    category: "Lower"
+    type: "Free Weights"
+    lastComplete: "5/19/2019"
+    frequency: 1.0
+    hypertrophy: "225#"
+    tone: "135#"
+  -
+    name: "Plank"
+    category: "Core"
+    type: "Aerobics"
+    lastComplete: "5/19/2019"
+    frequency: 1.0
+    hypertrophy: "75:60"
+    tone: "45:60"
+  -
+    name: "Squats"
+    category: "Lower"
+    type: "Free Weights"
+    lastComplete: "5/19/2019"
+    frequency: 1.0
+    hypertrophy: "225#"
+    tone: "135#"
+  -
+    name: "Bilateral Floor Press"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/22/2019"
+    frequency: 2.0
+    hypertrophy: "45#"
+    tone: "40#"
+  -
+    name: "Reverse Curl"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/22/2019"
+    frequency: 2.0
+    hypertrophy: "35#"
+    tone: "25#"
+  -
+    name: "Bench Press"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/20/2019"
+    frequency: 1.0
+    hypertrophy: "165#"
+    tone: "135#"
+  -
+    name: "Russian Twists"
+    category: "Core"
+    type: "Aerobics"
+    lastComplete: "5/20/2019"
+    frequency: 1.0
+    hypertrophy: "50# 40"
+    tone: "50# 30"
+  -
+    name: "Scout Pushup"
+    category: "Upper"
+    type: "Aerobics"
+    lastComplete: "5/20/2019"
+    frequency: 1.0
+    hypertrophy: "8"
+    tone: "5"
+  -
+    name: "Dive Bombers"
+    category: "Upper"
+    type: "Aerobics"
+    lastComplete: "5/21/2019"
+    frequency: 1.0
+    hypertrophy: "12"
+    tone: "8"
+  -
+    name: "Seated Row"
+    category: "Upper"
+    type: "Machines"
+    lastComplete: "5/21/2019"
+    frequency: 1.0
+    hypertrophy: "170#"
+    tone: "150#"
+  -
+    name: "Thrusters"
+    category: "Full Body"
+    type: "Free Weights"
+    lastComplete: "5/21/2019"
+    frequency: 1.0
+    hypertrophy: "90#"
+    tone: "70#"
+  -
+    name: "Floor 2 Overhead"
+    category: "Full Body"
+    type: "Aerobics"
+    lastComplete: "5/22/2019"
+    frequency: 1.0
+    hypertrophy: "45# (4x8x2)"
+    tone: "35# (4x16x2)"
+  -
+    name: "Wrist Flex"
+    category: "Upper"
+    type: "Free Weights"
+    lastComplete: "5/21/2019"
+    frequency: 0.5
+    hypertrophy: "30#"
+    tone: "20#"
+  -
+    name: "Jumping Jacks"
+    category: "Cardio"
+    type: "Aerobics"
+    lastComplete: "5/22/2019"
+    frequency: 0.5
+    hypertrophy: "100"
+    tone: "50"
+  -
+    name: "Backward Jogging"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Band Stretches"
+    category: "Stretching"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Banded Xs"
+    category: "Stretching"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Battle Ropes"
+    category: "Full Body"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Bear Crawl"
+    category: "Warmup"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Build-Up Sprints"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Butt Kicks"
+    category: "Warmup"
+    type: ""
+    lastComplete: "12/6/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Calf Machine"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Clean"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Clean & Press"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Cowboy Carry"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Deep Squat Hold"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Dual-Rack Gobel Squat"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Goblet Squat"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Hamstring Machine"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "High Jump Pull Ups"
+    category: "Full Body"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "High Knees"
+    category: "Warmup"
+    type: ""
+    lastComplete: "12/6/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "High Pull"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "High Skip"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Inchworms"
+    category: "Full Body"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Jacob's Ladder"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Jamaican Step Ups"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Jogging"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Jump Rope"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: "100"
+    tone: "50"
+  -
+    name: "Jump Squats"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: "25#"
+    tone: "BW"
+  -
+    name: "Jumping one arm pullup"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: "4"
+    tone: "4"
+  -
+    name: "Kareoka"
+    category: "Warmup"
+    type: ""
+    lastComplete: "12/6/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Long Jumping"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Mountain Climber"
+    category: "Full Body"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Peck Fly"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Reverse Peck Fly"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Seated Press"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Side Straddle"
+    category: "Warmup"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Slow Kareoka"
+    category: "Warmup"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Spider Jumps"
+    category: "Warmup"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Sprinting"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Suicides"
+    category: "Cardio"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Suitcase Lift"
+    category: "Lower"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Superman"
+    category: "Stretching"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Trunk Twists"
+    category: "Core"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "TRX Pushups"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Unilateral Floor Press"
+    category: "Upper"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
+  -
+    name: "Upward stretching"
+    category: "Stretching"
+    type: ""
+    lastComplete: "1/1/2018"
+    frequency: 0.0
+    hypertrophy: ""
+    tone: ""
