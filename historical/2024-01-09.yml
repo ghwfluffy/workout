@@ -1,0 +1,15 @@
+metrics:
+    weight: 262.1
+workout:
+  -
+    name: "Kettlebell Swings"
+    tone: "45#"
+  -
+    name: "Jump Rope"
+    tone: "100"
+  -
+    name: "Burpies"
+    tone: "10"
+  -
+    name: "Mountain Climbers"
+    tone: "60"
