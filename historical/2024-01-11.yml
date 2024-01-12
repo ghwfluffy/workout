@@ -1,0 +1,16 @@
+workout:
+  -
+    name: "Chest Press"
+    tone: "185#"
+  -
+    name: "Lat Pulldown"
+    tone: "185#"
+  -
+    name: "Bicep Curl"
+    tone: "25"
+  -
+    name: "Overhead Press"
+    tone: "80#"
+  -
+    name: "Bent Over Row"
+    tone: "25#"

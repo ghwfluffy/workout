@@ -87,7 +87,7 @@ exercises:
     hypertrophy: "100#"
     tone: "70#"
   -
-    name: "Bent over row"
+    name: "Bent Over Row"
     category: "Upper"
     type: "Free Weights"
     lastComplete: "2019-05-06"
@@ -199,7 +199,7 @@ exercises:
     hypertrophy: "135#"
     tone: "115#"
   -
-    name: "KettleBell Swings"
+    name: "Kettlebell Swings"
     category: "Core"
     type: "Aerobics"
     lastComplete: "2019-05-18"
@@ -575,7 +575,7 @@ exercises:
     hypertrophy: ""
     tone: ""
   -
-    name: "Mountain Climber"
+    name: "Mountain Climbers"
     category: "Full Body"
     type: ""
     lastComplete: "2018-01-01"
