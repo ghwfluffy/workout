@@ -2,6 +2,7 @@ exercises:
   -
     name: "Front Squats"
     category: "Lower"
+    type: "Free Weights"
     lastComplete: "2019-02-16"
     frequencyScore: 0.5
     hypertrophy: "115 pounds"
