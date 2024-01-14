@@ -394,7 +394,7 @@ exercises:
     energy: "High"
     outside: false
   -
-    name: "Deadlift"
+    name: "Deadlifts"
     category: "Lower"
     type: "Free Weights"
     lastComplete: "2019-05-19"
@@ -406,6 +406,7 @@ exercises:
     availability: "Low"
     energy: "Low"
     outside: false
+    brother: "Squats"
   -
     name: "Plank"
     category: "Core"
@@ -432,6 +433,7 @@ exercises:
     availability: "Low"
     energy: "Low"
     outside: false
+    brother: "Deadlifts"
   -
     name: "Bilateral Floor Press"
     category: "Upper"

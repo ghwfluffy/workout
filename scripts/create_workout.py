@@ -62,6 +62,9 @@ def parse_categories(args):
 
     return categories
 
+def print_item(item):
+    print("{}: {} / {}".format(item['name'], item['hypertrophy'], item['tone']))
+
 args = get_args()
 categories = parse_categories(args)
 data = get_data()
@@ -96,9 +99,12 @@ for item in data['exercises']:
     except:
         print("Error processing: " + str(item))
 
-def print_item(item):
-    print("{}: {} / {}".format(item['name'], item['hypertrophy'], item['tone']))
-
 for x in [stretching, free_weights, machines, aerobics]:
     for item in x:
         print_item(item)
+        # Print my brother too
+        if 'brother' in item:
+            for find in data['exercises']:
+                if find['name'] == item['brother']:
+                    print_item(find)
+                    break
