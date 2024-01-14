@@ -1,23 +1,20 @@
 Scripts
 [\] Create new workout
-    [x] Basic workout creation
-    [ ] Exercises that always pair (IE: Lunges + Duck Walk)
+    [ ] Exercises that always pair (IE: Lunges + Duck Walk / PeckFly + Rear Delt)
     [ ] Whimsey
-    [ ] By gym capabilities
+    [ ] By gym capabilities (equipment profiles)
     [ ] By energy level
     [ ] Special warmup
     [ ] Cardio based workout
     [ ] Stretching
-[ ] Update data from historical
+    [ ] Gym business metric
 [ ] Points system
 [ ] Graphs
 Metadata
-[ ] Required equipment
-[ ] Required space
-[ ] Gym business metric
-[ ] Outdoors
-[ ] Will power?
-[ ] Energy?
-[ ] Uncategorized types
+[x] Required equipment
+[x] Availability
+[x] Outdoors
+[x] Energy?
+[x] Uncategorized types
 Goals
 [ ] Metrics

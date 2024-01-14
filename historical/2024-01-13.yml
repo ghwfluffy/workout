@@ -1,0 +1,12 @@
+workout:
+  -
+    name: "Peck Fly"
+    hypertrophy: "110#"
+    tone: "90#"
+  -
+    name: "Rear Delt Flex"
+    hypertrophy: "90#"
+    tone: "70#"
+  -
+    name: "Lunges"
+    tone: "15#"

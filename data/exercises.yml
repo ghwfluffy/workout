@@ -7,6 +7,11 @@ exercises:
     frequencyScore: 0.5
     hypertrophy: "115 pounds"
     tone: "95 pounds"
+
+    equipment: "Squat Rack"
+    availability: "Low"
+    energy: "Low"
+    outside: false
   -
     name: "Man Makers"
     category: "Full Body"
@@ -15,6 +20,11 @@ exercises:
     frequency: 0.5
     hypertrophy: "45#"
     tone: "25#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Wall Balls"
     category: "Full Body"
@@ -23,6 +33,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "100 over 10"
     tone: "100"
+
+    equipment: "Wall Ball"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Duck Walk"
     category: "Lower"
@@ -31,6 +46,12 @@ exercises:
     frequency: 1.0
     hypertrophy: "70#"
     tone: "40#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "High"
+    outside: false
+    brother: "Lunges"
   -
     name: "Lunges"
     category: "Lower"
@@ -39,6 +60,12 @@ exercises:
     frequency: 1.0
     hypertrophy: "70#"
     tone: "40#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "High"
+    outside: false
+    brother: "Duck Walk"
   -
     name: "Rowing"
     category: "Cardio"
@@ -47,6 +74,11 @@ exercises:
     frequency: 0.5
     hypertrophy: "2km < 8min"
     tone: "1km < 4m"
+
+    equipment: "Rowing Machine"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Sit-Ups"
     category: "Core"
@@ -55,6 +87,11 @@ exercises:
     frequency: 1.5
     hypertrophy: "20# 20"
     tone: "BW 20"
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Incline Bench"
     category: "Upper"
@@ -63,6 +100,11 @@ exercises:
     frequency: 0.5
     hypertrophy: "135#"
     tone: "95#"
+
+    equipment: "Incline Bench"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
   -
     name: "Shoulder Circuit"
     category: "Upper"
@@ -71,6 +113,11 @@ exercises:
     frequency: 2.0
     hypertrophy: "30#, 30#"
     tone: "25#, 20#"
+
+    equipment: "Dumbell"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
   -
     name: "Step Ups"
     category: "Lower"
@@ -79,6 +126,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "100"
     tone: "50"
+
+    equipment: "Box"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Good Mornings"
     category: "Lower"
@@ -87,6 +139,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "100#"
     tone: "70#"
+
+    equipment: "Barbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Bent Over Row"
     category: "Upper"
@@ -95,6 +152,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "70#"
     tone: "55#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Overhead Press"
     category: "Upper"
@@ -103,6 +165,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "80#"
     tone: "60#"
+
+    equipment: "Barbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Lateral Raises"
     category: "Upper"
@@ -111,6 +178,11 @@ exercises:
     frequency: 2.0
     hypertrophy: "100#"
     tone: "80#"
+
+    equipment: "Machines"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
   -
     name: "Barbell Twist"
     category: "Upper"
@@ -119,6 +191,11 @@ exercises:
     frequency: 3.0
     hypertrophy: "90:60"
     tone: "45:15"
+
+    equipment: "Barbell"
+    availability: "Low"
+    energy: "Low"
+    outside: false
   -
     name: "Pull Ups"
     category: "Upper"
@@ -127,6 +204,11 @@ exercises:
     frequency: 3.0
     hypertrophy: "5"
     tone: "3"
+
+    equipment: "Pull Up Bar"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Knee Ups"
     category: "Core"
@@ -135,14 +217,24 @@ exercises:
     frequency: 1.0
     hypertrophy: "25"
     tone: "20"
+
+    equipment: "Pull Up Bar"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
-    name: "Ring Rows"
+    name: "TRX Rows"
     category: "Upper"
     type: "Aerobics"
     lastComplete: "2019-05-13"
     frequency: 1.0
     hypertrophy: "16"
     tone: "12"
+
+    equipment: "TRX Straps"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Tricep Dips"
     category: "Upper"
@@ -151,6 +243,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "8"
     tone: "5"
+
+    equipment: "Tricep Dip"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Chest Press"
     category: "Upper"
@@ -159,6 +256,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "285#"
     tone: "225#"
+
+    equipment: "Machines"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
   -
     name: "Lat Pulldown"
     category: "Upper"
@@ -167,6 +269,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "285#"
     tone: "225#"
+
+    equipment: "Machines"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
   -
     name: "Peck Fly"
     category: "Upper"
@@ -175,6 +282,12 @@ exercises:
     frequency: 1.0
     hypertrophy: "140#"
     tone: "110#"
+
+    equipment: "Machines"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
+    brother: "Rear Delt Flex"
   -
     name: "Rear Delt Flex"
     category: "Upper"
@@ -183,6 +296,12 @@ exercises:
     frequency: 1.0
     hypertrophy: "110#"
     tone: "90#"
+
+    equipment: "Machines"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
+    brother: "Peck Fly"
   -
     name: "Bicep Curl"
     category: "Upper"
@@ -191,6 +310,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "40#"
     tone: "30#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Floor Cleans"
     category: "Full Body"
@@ -199,6 +323,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "135#"
     tone: "115#"
+
+    equipment: "Platform"
+    availability: "Low"
+    energy: "Medium"
+    outside: false
   -
     name: "Kettlebell Swings"
     category: "Core"
@@ -207,6 +336,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "90#"
     tone: "45#"
+
+    equipment: "Kettlebell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Tricep Extensions"
     category: "Upper"
@@ -215,6 +349,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "50#"
     tone: "35#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Push Ups"
     category: "Upper"
@@ -223,6 +362,11 @@ exercises:
     frequency: 3.0
     hypertrophy: "25# 15"
     tone: "BW 20"
+
+    equipment: "" # Plate
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Super Crunch"
     category: "Core"
@@ -231,6 +375,11 @@ exercises:
     frequency: 2.0
     hypertrophy: "30"
     tone: "20"
+
+    equipment: "Mat"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Burpies"
     category: "Cardio"
@@ -239,6 +388,11 @@ exercises:
     frequency: 0.5
     hypertrophy: "20"
     tone: "10"
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Deadlift"
     category: "Lower"
@@ -247,6 +401,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "225#"
     tone: "135#"
+
+    equipment: "Squat Rack"
+    availability: "Low"
+    energy: "Low"
+    outside: false
   -
     name: "Plank"
     category: "Core"
@@ -255,6 +414,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "75:60"
     tone: "45:60"
+
+    equipment: "Mat"
+    availability: "Low"
+    energy: "Medium"
+    outside: false
   -
     name: "Squats"
     category: "Lower"
@@ -263,6 +427,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "225#"
     tone: "135#"
+
+    equipment: "Squat Rack"
+    availability: "Low"
+    energy: "Low"
+    outside: false
   -
     name: "Bilateral Floor Press"
     category: "Upper"
@@ -271,6 +440,11 @@ exercises:
     frequency: 2.0
     hypertrophy: "45#"
     tone: "40#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Reverse Curl"
     category: "Upper"
@@ -279,6 +453,11 @@ exercises:
     frequency: 2.0
     hypertrophy: "35#"
     tone: "25#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Bench Press"
     category: "Upper"
@@ -287,6 +466,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "165#"
     tone: "135#"
+
+    equipment: "Bench"
+    availability: "Low"
+    energy: "Low"
+    outside: false
   -
     name: "Russian Twists"
     category: "Core"
@@ -295,6 +479,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "50# 40"
     tone: "50# 30"
+
+    equipment: "Kettlebell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Scout Pushup"
     category: "Upper"
@@ -303,6 +492,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "8"
     tone: "5"
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Dive Bombers"
     category: "Upper"
@@ -311,6 +505,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "12"
     tone: "8"
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Seated Row"
     category: "Upper"
@@ -319,6 +518,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "170#"
     tone: "150#"
+
+    equipment: "Machines"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Thrusters"
     category: "Full Body"
@@ -327,6 +531,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "90#"
     tone: "70#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Floor 2 Overhead"
     category: "Full Body"
@@ -335,6 +544,11 @@ exercises:
     frequency: 1.0
     hypertrophy: "45# (4x8x2)"
     tone: "35# (4x16x2)"
+
+    equipment: "Platform"
+    availability: "Low"
+    energy: "Medium"
+    outside: false
   -
     name: "Wrist Flex"
     category: "Upper"
@@ -343,6 +557,11 @@ exercises:
     frequency: 0.5
     hypertrophy: "30#"
     tone: "20#"
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Jumping Jacks"
     category: "Cardio"
@@ -351,347 +570,573 @@ exercises:
     frequency: 0.5
     hypertrophy: "100"
     tone: "50"
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Backward Jogging"
     category: "Cardio"
-    type: ""
+    type: "Stretching"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: true
   -
     name: "Band Stretches"
     category: "Stretching"
-    type: ""
+    type: "Stretching"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Band"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Banded Xs"
     category: "Stretching"
-    type: ""
+    type: "Stretching"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Band"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Battle Ropes"
     category: "Full Body"
-    type: ""
+    type: "Full Body"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Battle Ropes"
+    availability: "Medium"
+    energy: "High"
+    outside: false
   -
     name: "Bear Crawl"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Build-Up Sprints"
     category: "Cardio"
-    type: ""
+    type: "Cardio"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: true
   -
     name: "Butt Kicks"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-12-06"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Calf Machine"
     category: "Lower"
-    type: ""
+    type: "Machines"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Machines"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Clean"
     category: "Upper"
-    type: ""
+    type: "Free Weights"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Barbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Clean & Press"
     category: "Upper"
-    type: ""
+    type: "Free Weights"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Barbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Cowboy Carry"
     category: "Upper"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Plate"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Deep Squat Hold"
-    category: "Lower"
-    type: ""
+    category: "Stretching"
+    type: "Stretching"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Dual-Rack Gobel Squat"
     category: "Lower"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Kettlebell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Goblet Squat"
     category: "Lower"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Kettlebell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Hamstring Machine"
     category: "Lower"
-    type: ""
+    type: "Machines"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Machines"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "High Jump Pull Ups"
     category: "Full Body"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Pull Up Bar"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "High Knees"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-12-06"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "High Pull"
     category: "Upper"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Kettlebell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "High Skip"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Inchworms"
     category: "Full Body"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Jacob's Ladder"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Jacob's Ladder"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Jamaican Step Ups"
     category: "Lower"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Box"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Jogging"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: true
   -
     name: "Jump Rope"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: "100"
     tone: "50"
+
+    equipment: "Jump Rope"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Jump Squats"
     category: "Lower"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: "25#"
     tone: "BW"
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Jumping one arm pullup"
     category: "Upper"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: "4"
     tone: "4"
+
+    equipment: "Pull Up Bar"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Kareoka"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-12-06"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: true
   -
     name: "Long Jumping"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Medium"
+    outside: true
   -
     name: "Mountain Climbers"
     category: "Full Body"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
-    name: "Peck Fly"
+    name: "Dumbell Peck Fly"
     category: "Upper"
-    type: ""
+    type: "Free Weights"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment:
+        - "Bench"
+        - "Dumbell"
+    availability: "Low"
+    energy: "Low"
+    outside: false
   -
     name: "Reverse Peck Fly"
     category: "Upper"
-    type: ""
+    type: "Free Weights"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Seated Press"
     category: "Upper"
-    type: ""
+    type: "Free Weights"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment:
+        - "Dumbell"
+        - "Seat"
+    availability: "Medium"
+    energy: "Low"
+    outside: false
   -
     name: "Side Straddle"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: true
   -
     name: "Slow Kareoka"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: true
   -
     name: "Spider Jumps"
     category: "Warmup"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: true
   -
     name: "Sprinting"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: true
   -
     name: "Suicides"
     category: "Cardio"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "High"
+    outside: true
   -
     name: "Suitcase Lift"
     category: "Lower"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment:
+        - "Kettlebell"
+        - "Box"
+    availability: "High"
+    energy: "Medium"
+    outside: false
   -
     name: "Superman"
     category: "Stretching"
-    type: ""
+    type: "Stretching"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Mat"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Trunk Twists"
     category: "Core"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Kettlebell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "TRX Pushups"
     category: "Upper"
-    type: ""
+    type: "Aerobics"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "TRX Straps"
+    availability: "High"
+    energy: "High"
+    outside: false
   -
     name: "Unilateral Floor Press"
     category: "Upper"
-    type: ""
+    type: "Free Weights"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: "Dumbell"
+    availability: "High"
+    energy: "Low"
+    outside: false
   -
     name: "Upward stretching"
     category: "Stretching"
-    type: ""
+    type: "Stretching"
     lastComplete: "2018-01-01"
     frequency: 0.0
     hypertrophy: ""
     tone: ""
+
+    equipment: ""
+    availability: "High"
+    energy: "Low"
+    outside: false
