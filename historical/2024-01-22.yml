@@ -1,0 +1,12 @@
+metrics:
+    weight: 260.0
+    gut: 116
+workout:
+  -
+    name: "Lateral Raises"
+    hypertrophy: "90#"
+    tone: "70#"
+  -
+    name: "Lat Pulldown"
+    hypertrophy: "225#"
+    tone: "185#"
