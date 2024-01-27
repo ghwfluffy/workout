@@ -1,0 +1,16 @@
+metrics:
+    weight: 258.0
+    gut: 116
+workout:
+  -
+    name: "Barbell Twist"
+    hypertrophy: "90:60"
+    tone: "45:15"
+  -
+    name: "Chest Press"
+    hypertrophy: "225#"
+    tone: "185#"
+  -
+    name: "Lat Pulldown"
+    hypertrophy: "225#"
+    tone: "185#"

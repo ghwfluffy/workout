@@ -1,0 +1,7 @@
+metrics:
+    weight: 255.0
+workout:
+  -
+    name: "TRX Rows"
+    hypertrophy: "16"
+    tone: "12"
