@@ -1,0 +1,16 @@
+metrics:
+    weight: 247.8
+    gut: 115
+workout:
+  -
+    name: "Bench Press"
+    tone: "135#"
+    hypertrophy: "185#"
+  -
+    name: "Pull Ups"
+    tone: "-120#"
+    hypertrophy: "-80#"
+  -
+    name: "Tricep Dips"
+    tone: "-120#"
+    hypertrophy: "-120#"
