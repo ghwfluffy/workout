@@ -1,0 +1,11 @@
+metrics:
+    weight: 248.5
+workout:
+  -
+    name: "Incline Bench"
+    tone: "95#"
+    hypertrophy: "135#"
+  -
+    name: "Lat Pulldown"
+    tone: "185#"
+    hypertrophy: "225#"
