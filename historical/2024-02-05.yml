@@ -1,0 +1,15 @@
+metrics:
+    weight: 250.2
+workout:
+  -
+    name: "Good Mornings"
+    hypertrophy: "50#"
+    tone: "30#"
+  -
+    name: "Lateral Raises"
+    hypertrophy: "90#"
+    tone: "70#"
+  -
+    name: "Pull Ups"
+    hypertrophy: "-80#"
+    tone: "-120#"

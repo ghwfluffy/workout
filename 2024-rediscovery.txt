@@ -30,6 +30,7 @@ February:
 
     Rowing
 
+    [x] Pull Ups
     Sit-Ups
     Push Ups
     Super Crunch
@@ -42,9 +43,9 @@ February:
     Upward stretching
 
     Step Ups
-    Good Mornings
+    [x] Good Mornings
     Bent Over Row
-    Lateral Raises
+    [x] Lateral Raises
     Barbell Twist
     Knee Ups
     TRX Rows
