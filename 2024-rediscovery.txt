@@ -49,7 +49,7 @@ February:
     Barbell Twist
     Knee Ups
     TRX Rows
-    Kettlebell Swings
+    [x] Kettlebell Swings
     Bilateral Floor Press
     Reverse Curl
     Seated Row

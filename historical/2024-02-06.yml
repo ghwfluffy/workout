@@ -1,0 +1,11 @@
+metrics:
+    weight: 249.2
+workout:
+  -
+    name: "Kettlebell Swings"
+    hypertrophy: "40#"
+    tone: "40#"
+  -
+    name: "Pull Ups"
+    hypertrophy: "-80#"
+    tone: "-120#"
