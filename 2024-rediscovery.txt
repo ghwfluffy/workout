@@ -31,12 +31,12 @@ February:
     Rowing
 
     [x] Pull Ups
-    Sit-Ups
-    Push Ups
+    [x] Sit Ups
+    [x] Push Ups
     Super Crunch
     Plank
     Jumping Jacks
-    Russian Twists
+    [x] Russian Twists
     Scout Pushup
     Dive Bombers
 

@@ -1,0 +1,19 @@
+metrics:
+    weight: 248.7
+workout:
+  -
+    name: "Russian Twists"
+    hypertrophy: "35#"
+    tone: "35#"
+  -
+    name: "Pull Ups"
+    hypertrophy: "-60#"
+    tone: "-100#"
+  -
+    name: "Push Ups"
+    hypertrophy: "12"
+    tone: "12"
+  -
+    name: "Sit Ups"
+    hypertrophy: "20"
+    tone: "20"
